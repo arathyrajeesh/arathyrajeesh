@@ -121,7 +121,7 @@ me.say_hi()
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/F7B500/arathyrajeesh" alt="GitHub Contribution Chart" width="90%"/>
+  <img src="https://ghchart.rshah.org/005f45/arathyrajeesh" alt="GitHub Contribution Chart" width="90%"/>
 </p>
 
 ---
