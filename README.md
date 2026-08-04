@@ -156,7 +156,6 @@ me.say_hi()
   <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=999999&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!;Star+a+repo+you+like+%E2%AD%90" alt="Footer" />
 
