@@ -88,7 +88,7 @@ me.say_hi()
 <br/>
 
 ## 📌 Featured Projects
-
+<br/>
 <div align="center">
 
 <a href="https://github.com/arathyrajeesh/laundry-shop">
