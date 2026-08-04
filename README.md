@@ -12,9 +12,14 @@
   <a href="https://arathy-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:arathyrajeesh2@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arathyrajeesh&label=Profile+Views&color=f7b500&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/arathyrajeesh?label=Followers&style=flat-square&color=f7b500" alt="Followers"/>
 </p>
 
 ---
