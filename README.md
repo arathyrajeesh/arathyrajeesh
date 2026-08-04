@@ -61,7 +61,7 @@ me.say_hi()
 
 <div align="center">
 
-**Languages & Frameworks**
+<p >**Languages & Frameworks**</p>
 <br/>
 <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
