@@ -17,11 +17,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arathyrajeesh&label=Profile+Views&color=f7b500&style=flat-square" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/arathyrajeesh?label=Followers&style=flat-square&color=f7b500" alt="Followers"/>
-</p>
-
 ---
 
 ### 🚀 About Me
