@@ -120,7 +120,7 @@ me.say_hi()
   <img src="https://github-readme-stats-taupe-seven-10.vercel.app/api/top-langs/?username=arathyrajeesh&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
 
-<p align="center">
+<p align="center" border='1px solid white>
   <img src="https://ghchart.rshah.org/005f45/arathyrajeesh" alt="GitHub Contribution Chart" width="90%"/>
 </p>
 
