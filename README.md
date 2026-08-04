@@ -21,8 +21,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=arathyrajeesh&label=Profile+Views&color=f7b500&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/arathyrajeesh?label=Followers&style=for-the-badge&color=f7b500&logo=github" alt="Followers"/>
 
 </div>
 
@@ -74,11 +72,11 @@ me.say_hi()
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 
-<br/><br/>
+<br/>
 
 <strong>Tools &amp; Platforms</strong>
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
