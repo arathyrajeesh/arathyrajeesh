@@ -12,9 +12,14 @@
   <a href="https://arathy-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="mailto:arathyrajeesh2@gmail.com">
+  <a href="mailto:youremail@example.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arathyrajeesh&label=Profile+Views&color=f7b500&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/arathyrajeesh?label=Followers&style=flat-square&color=f7b500" alt="Followers"/>
 </p>
 
 ---
@@ -67,6 +72,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
 ---
@@ -75,39 +81,39 @@ me.say_hi()
 
 <p align="center">
   <a href="https://github.com/arathyrajeesh/laundry-shop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arathyrajeesh&repo=laundry-shop&theme=radical" />
+    <img src="https://github-readme-stats-taupe-seven-10.vercel.app/api/pin/?username=arathyrajeesh&repo=laundry-shop&theme=radical" />
   </a>
   <a href="https://github.com/arathyrajeesh/portfoli">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arathyrajeesh&repo=portfoli&theme=radical" />
+    <img src="https://github-readme-stats-taupe-seven-10.vercel.app/api/pin/?username=arathyrajeesh&repo=portfoli&theme=radical" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/arathyrajeesh/blood-bank-management-django">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arathyrajeesh&repo=blood-bank-management-django&theme=radical" />
+    <img src="https://github-readme-stats-taupe-seven-10.vercel.app/api/pin/?username=arathyrajeesh&repo=blood-bank-management-django&theme=radical" />
   </a>
   <a href="https://github.com/arathyrajeesh/event-booking-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arathyrajeesh&repo=event-booking-api&theme=radical" />
+    <img src="https://github-readme-stats-taupe-seven-10.vercel.app/api/pin/?username=arathyrajeesh&repo=event-booking-api&theme=radical" />
   </a>
 </p>
 
 | Project | Description |
 |---|---|
-| 💼 [portfolio](https://github.com/arathyrajeesh/portfoli) | My personal portfolio |
 | 🧺 [laundry-shop](https://github.com/arathyrajeesh/laundry-shop) | A laundry service management web app built with Django |
-| 🎟️ [own-music-playlist](https://github.com/arathyrajeesh/own-music-playlist.git) | A own music playlist |
+| 💼 [portfoli](https://github.com/arathyrajeesh/portfoli) | My personal portfolio |
 | 🩸 [blood-bank-management-django](https://github.com/arathyrajeesh/blood-bank-management-django) | A blood bank management system built with Django |
+| 🎟️ [event-booking-api](https://github.com/arathyrajeesh/event-booking-api) | REST API for event booking built with Python |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arathyrajeesh&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats-taupe-seven-10.vercel.app/api?username=arathyrajeesh&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arathyrajeesh&theme=radical" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arathyrajeesh&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats-taupe-seven-10.vercel.app/api/top-langs/?username=arathyrajeesh&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
