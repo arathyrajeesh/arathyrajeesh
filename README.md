@@ -121,7 +121,7 @@ me.say_hi()
 </p>
 
 <p align="center">
-  <img src=github-profile-trophy.vercel.app" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=arathyrajeesh&theme=radical&no-frame=true&row=1&column=7" alt="Trophies"/>
 </p>
 
 ---
