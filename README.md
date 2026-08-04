@@ -139,7 +139,7 @@ me.say_hi()
 
 ### 🔥 Contribution Graph
 
-<img src="https://ghchart.rshah.org/002d1e/arathyrajeesh" alt="GitHub Contribution Chart" width="100%"/>
+<img src="https://ghchart.rshah.org/F7B500/arathyrajeesh" alt="GitHub Contribution Chart" width="100%"/>
 
 </div>
 
