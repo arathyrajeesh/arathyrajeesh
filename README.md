@@ -80,11 +80,11 @@ me.say_hi()
 ### 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/arathyrajeesh/laundry-shop-django">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arathyrajeesh&repo=laundry-shop-django&theme=radical" />
+  <a href="https://github.com/arathyrajeesh/laundry-shop">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arathyrajeesh&repo=laundry-shop&theme=radical" />
   </a>
-  <a href="https://github.com/arathyrajeesh/portfolio-nextjs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arathyrajeesh&repo=portfolio-nextjs&theme=radical" />
+  <a href="https://github.com/arathyrajeesh/portfoli">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arathyrajeesh&repo=portfoli&theme=radical" />
   </a>
 </p>
 <p align="center">
@@ -98,8 +98,8 @@ me.say_hi()
 
 | Project | Description |
 |---|---|
-| 🧺 [laundry-shop-django](https://github.com/arathyrajeesh/laundry-shop-django) | A laundry service management web app built with Django |
-| 💼 [portfolio-nextjs](https://github.com/arathyrajeesh/portfolio-nextjs) | My personal portfolio built with Next.js & TypeScript |
+| 🧺 [laundry-shop](https://github.com/arathyrajeesh/laundry-shop) | A laundry service management web app built with Django |
+| 💼 [portfoli](https://github.com/arathyrajeesh/portfoli) | My personal portfolio |
 | 🩸 [blood-bank-management-django](https://github.com/arathyrajeesh/blood-bank-management-django) | A blood bank management system built with Django |
 | 🎟️ [event-booking-api](https://github.com/arathyrajeesh/event-booking-api) | REST API for event booking built with Python |
 
