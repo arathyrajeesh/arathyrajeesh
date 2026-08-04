@@ -1,78 +1,172 @@
-<h1 align="center">Hi 👋, I'm Arathy Tp</h1>
-<h3 align="center">Python Full-Stack Developer | Django · React | REST APIs</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7B500&center=true&vCenter=true&width=500&lines=Building+with+Django+%26+React;REST+API+Developer;Trainer+%40+Acadeno+Technologies;Open+to+Opportunities" alt="Typing SVG" />
+# 👋 Hi, I'm Arathy TP
+
+### Python Full-Stack Developer • Django • React • REST APIs
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=F7B500&center=true&vCenter=true&width=650&lines=Python+Full-Stack+Developer+%F0%9F%90%8D;Building+Scalable+Django+Applications+%F0%9F%9A%80;REST+API+Developer+%F0%9F%94%97;Django+%2B+React+Developer+%E2%9A%9B%EF%B8%8F;Trainer+%40+Acadeno+Technologies+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Always+Learning+%E2%80%A2+Always+Building" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://arathy-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-F7B500?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
+<a href="https://linkedin.com/in/arathy-tp-4a97052ba">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/arathyrajeesh">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+I'm a **Python Full-Stack Developer** focused on building modern, scalable, and user-friendly web applications.
+
+- 🐍 Building backend applications with **Python & Django**
+- ⚛️ Creating modern frontend interfaces with **React**
+- 🔗 Designing and developing **RESTful APIs**
+- 🗄️ Working with **PostgreSQL, MySQL & SQLite**
+- 🚀 Deploying applications using modern cloud platforms
+- 👩‍🏫 Training aspiring developers at **Acadeno Technologies**
+- 📍 Based in **Kozhikode, India**
+- 🌱 Continuously exploring new technologies and development practices
+- 💼 **Open to Python / Django / Full-Stack opportunities**
+
+---
+
+## ⚡ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css" />
+</p>
+
+### 🚀 Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,react,nextjs,bootstrap,tailwind" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis" />
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,vercel" />
 </p>
 
 ---
 
-### 🚀 About Me
+## 🚀 Featured Projects
 
-- 🐍 I build full-stack web apps using **Python, Django, and React**
-- 🔗 I design and develop **REST APIs**
-- 👩‍🏫 I currently train aspiring developers at **Acadeno Technologies**
-- 📍 Based in **Kozhikod, India**
-- 🌱 Always learning and exploring new tools in the web dev ecosystem
-- 💼 **Open to full-stack developer opportunities**
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/arathy-tp-4a97052ba) or check out my [Portfolio](https://arathy-portfolio.vercel.app/)
+<table>
+<tr>
+<td width="50%">
+
+### 🧺 Laundry Shop Management
+
+A Django-based web application for managing laundry services, orders, customers, and operations.
+
+**Tech:** Python • Django • HTML • CSS
+
+[View Repository →](https://github.com/arathyrajeesh/laundry-shop-django)
+
+</td>
+
+<td width="50%">
+
+### 🎟️ Event Booking API
+
+Backend REST API designed for event creation, booking management, and scalable API operations.
+
+**Tech:** Python • REST API • PostgreSQL
+
+[View Repository →](https://github.com/arathyrajeesh/event-booking-api)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🩸 Blood Bank Management
+
+Web-based blood bank management system for managing donors, blood availability, and requests.
+
+**Tech:** Django • SQLite • Bootstrap
+
+[View Repository →](https://github.com/arathyrajeesh/blood-bank-management-django)
+
+</td>
+
+<td width="50%">
+
+### 💼 Developer Portfolio
+
+Modern personal developer portfolio showcasing my projects, skills, and professional experience.
+
+**Tech:** Next.js • TypeScript • Vercel
+
+[View Repository →](https://github.com/arathyrajeesh/portfolio-nextjs)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🛠️ Tech Stack
+## 📊 GitHub Analytics
 
-**Languages & Frameworks**
+<div align="center">
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=arathyrajeesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-**Tools & Platforms**
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=arathyrajeesh&theme=tokyonight&hide_border=true"/>
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arathyrajeesh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</div>
 
 ---
 
-### 📌 Featured Projects
+## 🏆 GitHub Achievements
 
-| Project | Description |
-|---|---|
-| 🧺 [laundry-shop-django](https://github.com/arathyrajeesh/laundry-shop-django) | A laundry service management web app built with Django |
-| 💼 [portfolio-nextjs](https://github.com/arathyrajeesh/portfolio-nextjs) | My personal portfolio built with Next.js & TypeScript |
-| 🩸 [blood-bank-management-django](https://github.com/arathyrajeesh/blood-bank-management-django) | A blood bank management system built with Django |
-| 🎟️ [event-booking-api](https://github.com/arathyrajeesh/event-booking-api) | REST API for event booking built with Python |
+<div align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=arathyrajeesh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arathyrajeesh&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arathyrajeesh&theme=radical" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arathyrajeesh&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+</div>
 
 ---
 
-### 🤝 Connect with Me
+## 📈 Contribution Activity
 
-<p align="left">
-  <a href="https://linkedin.com/in/arathy-tp-4a97052ba" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://arathy-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center"><i>Thanks for stopping by! ⭐ from a repo you like if you found it useful.</i></p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arathyrajeesh&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+## 🎯 Currently
+
+```text
+🔭 Building      → Full-Stack Web Applications
+🌱 Learning      → Advanced Django & Backend Development
+⚡ Exploring     → Docker • Redis • Cloud Deployment
+👩‍🏫 Teaching     → Python • Django • Web Development
+💼 Interested In → Python / Django / Full-Stack Roles
