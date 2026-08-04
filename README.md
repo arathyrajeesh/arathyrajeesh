@@ -96,12 +96,16 @@ me.say_hi()
   </a>
 </p>
 
+<div align="center">
+
 | Project | Description |
 |---|---|
 | 🧺 [laundry-shop](https://github.com/arathyrajeesh/laundry-shop) | A laundry service management web app built with Django |
 | 💼 [portfoli](https://github.com/arathyrajeesh/portfoli) | My personal portfolio |
 | 🩸 [blood-bank-management-django](https://github.com/arathyrajeesh/blood-bank-management-django) | A blood bank management system built with Django |
 | 🎟️ [event-booking-api](https://github.com/arathyrajeesh/event-booking-api) | REST API for event booking built with Python |
+
+</div>
 
 ---
 
