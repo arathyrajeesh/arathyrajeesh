@@ -90,17 +90,17 @@ me.say_hi()
 <div align="center">
 
 <a href="https://github.com/arathyrajeesh/laundry-shop">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arathyrajeesh&repo=laundry-shop&theme=radical&hide_border=true" alt="laundry-shop"/>
+  <img src="https://github-readme-stats-taupe-seven-10.vercel.app/api/pin/?username=arathyrajeesh&repo=laundry-shop&theme=radical&hide_border=true" alt="laundry-shop"/>
 </a>
 <a href="https://github.com/arathyrajeesh/portfoli">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arathyrajeesh&repo=portfoli&theme=radical&hide_border=true" alt="portfoli"/>
+  <img src="https://github-readme-stats-taupe-seven-10.vercel.app/api/pin/?username=arathyrajeesh&repo=portfoli&theme=radical&hide_border=true" alt="portfoli"/>
 </a>
 
 <a href="https://github.com/arathyrajeesh/blood-bank-management-django">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arathyrajeesh&repo=blood-bank-management-django&theme=radical&hide_border=true" alt="blood-bank-management-django"/>
+  <img src="https://github-readme-stats-taupe-seven-10.vercel.app/api/pin/?username=arathyrajeesh&repo=blood-bank-management-django&theme=radical&hide_border=true" alt="blood-bank-management-django"/>
 </a>
 <a href="https://github.com/arathyrajeesh/event-booking-api">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arathyrajeesh&repo=event-booking-api&theme=radical&hide_border=true" alt="event-booking-api"/>
+  <img src="https://github-readme-stats-taupe-seven-10.vercel.app/api/pin/?username=arathyrajeesh&repo=event-booking-api&theme=radical&hide_border=true" alt="event-booking-api"/>
 </a>
 
 </div>
@@ -122,10 +122,10 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arathyrajeesh&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats-taupe-seven-10.vercel.app/api?username=arathyrajeesh&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" height="165"/>
 <img src="https://streak-stats.demolab.com/?user=arathyrajeesh&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arathyrajeesh&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+<img src="https://github-readme-stats-taupe-seven-10.vercel.app/api/top-langs/?username=arathyrajeesh&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 
 </div>
 
