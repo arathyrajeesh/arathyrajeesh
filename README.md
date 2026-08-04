@@ -153,16 +153,6 @@ me.say_hi()
 
 <div align="center">
 
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=arathyrajeesh&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
 ### 🔥 Contribution Graph
 
 <img src="https://ghchart.rshah.org/F7B500/arathyrajeesh" alt="GitHub Contribution Chart" width="100%"/>
